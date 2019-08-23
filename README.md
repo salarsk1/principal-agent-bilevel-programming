@@ -1,4 +1,4 @@
-# Incentive design in principal-agent model with solving the Bi-level programming programming 
+# Incentive design in principal-agent model with solving the Bi-level programming problem 
 Computation of Optimal Contracts for Systems Engineering
 
 To run the code:
